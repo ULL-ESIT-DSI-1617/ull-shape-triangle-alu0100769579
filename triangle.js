@@ -1,4 +1,6 @@
-let Shape = require('./shapesarea.js');
+"use strict";
+
+let Shape = require('@alu0100769579/ull-shape-alu0100769579');
 
 class Triangle extends Shape {
     constructor(options) {

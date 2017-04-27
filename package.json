@@ -1,7 +1,7 @@
 {
   "name": "@alu0100769579/ull-shape-triangle-alu0100769579",
   "version": "1.0.0",
-  "description": "ull shape",
+  "description": "ull shape triangle",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --require should"
   },
@@ -20,7 +20,7 @@
   },
   "homepage": "",
   "dependencies": {
-    "@alu0100769579/ull-shape-alu0100769579": "^1.0.0",
+    "@alu0100769579/ull-shape-alu0100769579": "^1.0.4",
     "gulp-shell": "^0.6.3",
     "mocha": "^2.3.3",
     "should": "^7.1.1"
