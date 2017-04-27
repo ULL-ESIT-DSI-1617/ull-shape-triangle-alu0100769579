@@ -27,7 +27,7 @@ class Triangle extends Shape {
     
     /**
     * @function getArea
-    * @return {value} retorna el valor del area de cualquier forma geométrica a la que apunte el objeto
+    * @return {value} retorna el valor del area del triangle
     */
     
     area() {
