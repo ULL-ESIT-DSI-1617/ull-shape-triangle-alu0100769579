@@ -1,16 +1,46 @@
-
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-triangle-alu0100769579.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/ull-shape-triangle-alu0100769579)
 
 ## Práctica: Evaluar Módulos
 
-### Aceptar Tarea
+### ull-shape--triangle-alu0100769579
 
-* [Aceptar asignación de la tarea]()
+#### Install
 
-### Forma de trabajo
+    ```js
+    npm install @alu0100769579/ull-shape-triangle-alu0100769579
+    ```
 
-* Use su portátil o su cuenta en c9 para llevar a cabo los objetivos planteados.
-* Esta práctica se divide en objetivos o hitos:  indique al profesor  cuando ha terminado y suba los enlaces a los repos y despliegues.
+#### Use
 
+    ```js
+    require('@alu0100769579/ull-shape-triangle-alu0100769579');
+    ```
+
+### Documentación
+
+- [Shape](https://ull-esit-dsi-1617.github.io/ull-shape-alu0100769579/)
+- [Triangle](https://ull-esit-dsi-1617.github.io/ull-shape-triangle-alu0100769579/)
+- [Rectangle](https://ull-esit-dsi-1617.github.io/ull-shape-rectangle-alu0100769579/)
+- [Square](https://ull-esit-dsi-1617.github.io/ull-shape-square-alu0100769579/)
+ 
+### Repositorios
+
+- [Principal](https://github.com/ULL-ESIT-DSI-1617/evaluar-modulos-alu0100769579)
+- [Shape](https://github.com/ULL-ESIT-DSI-1617/ull-shape-alu0100769579)
+- [Triangle](https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangle-alu0100769579)
+- [Rectangle](https://github.com/ULL-ESIT-DSI-1617/ull-shape-rectangle-alu0100769579)
+- [Square](https://github.com/ULL-ESIT-DSI-1617/ull-shape-square-alu0100769579)
+ 
+### Paquetes NPM
+
+- [Shape](https://www.npmjs.com/package/@alu0100769579/ull-shape-alu0100769579)
+- [Triangle](https://www.npmjs.com/package/@alu0100769579/ull-shape-triangle-alu0100769579)
+- [Rectangle](https://www.npmjs.com/package/@alu0100769579/ull-shape-rectangle-alu0100769579)
+- [Square](https://www.npmjs.com/package/@alu0100769579/ull-shape-square-alu0100769579)
+
+### Autor
+
+- [Página personal Raúl Martín Morales](https://alu0100769579.github.io/RaulMartinMorales/)
 
 ### Descripción
 
